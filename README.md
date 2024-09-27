@@ -186,9 +186,9 @@ Once the proposal is accepted we will contact you to complete the necessary info
 Join us in Granada in this 2nd AI Congress - Andalucía, where AI innovation meets historic charm. Let's shape the future of AI together!
 
 For questions and inquiries, contact with us:
-- Laura Darriba - ldarriba@iaa.es,
-- Manuel Parra-Royón - mparra@iaa.es,
-- JJ Merelo - jjmerelo@ugr.es,
+- Laura Darriba - ldarriba [at] iaa.es,
+- Manuel Parra-Royón - mparra [at] iaa.es,
+- JJ Merelo - jjmerelo [at] ugr.es,
 - Javier Viñales - javigu [at] gmail.com
 
 ## Follow the event
