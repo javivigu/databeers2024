@@ -106,7 +106,7 @@ https://twitter.com/databeersgrx?lang=en
 
 [🇪🇸 Versión en Castellano](#cfp---evento-databeers---2a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---2nd-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 https://espsrc.github.io/databeers2024/
 
-![imagen](https://github.com/espsrc/databeers2024/assets/22152978/392a6f83-c614-4358-9346-fe6d72328338)
+![imagen](https://github.com/espsrc/databeers/assets/22152978/392a6f83-c614-4358-9346-fe6d72328338)
 
 # CFP - DataBeers Event - 2nd AI Conference Andalucía ❤️ Granada, Spain
 
@@ -115,7 +115,7 @@ industries and revolutionising how we approach problems. Its applications span
 from healthcare and finance to autonomous vehicles, computer vision, natural
 language processing among others. We invite researchers, enthusiasts, and
 companies to showcase their cutting-edge AI developments at our singular AI
-event within one of the tracks of the [I Congreso de IA de Andalucía](https://juntadeandalucia.es/congresoIA/),
+event within one of the tracks of the [II Congreso de IA de Andalucía](https://juntadeandalucia.es/congresoIA/),
 that will be celebrated in Granada, Spain, November 19 - 21, 2024, at the
 Palacio de Congresos.
 
