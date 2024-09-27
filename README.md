@@ -93,7 +93,8 @@ Una vez aceptada la propuesta nos pondremos en contacto contigo para completar l
 Para preguntas y consultas, contacta con nosotros:
 - Laura Darriba - ldarriba [at] iaa.es,
 - Manuel Parra-Royón - mparra [at] iaa.es,
-- JJ Merelo - jjmerelo [at] ugr.es
+- JJ Merelo - jjmerelo [at] ugr.es,
+- Javier Viñales - javigu [at] gmail.com
 
 ## Sigue el evento
 
@@ -187,7 +188,8 @@ Join us in Granada in this 2nd AI Congress - Andalucía, where AI innovation mee
 For questions and inquiries, contact with us:
 - Laura Darriba - ldarriba@iaa.es,
 - Manuel Parra-Royón - mparra@iaa.es,
-- JJ Merelo - jjmerelo@ugr.es
+- JJ Merelo - jjmerelo@ugr.es,
+- Javier Viñales - javigu [at] gmail.com
 
 ## Follow the event
 You can check the latest updates from the DataBeers Granada account:
