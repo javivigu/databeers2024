@@ -188,7 +188,6 @@ For questions and inquiries, contact with us:
 - Laura Darriba - ldarriba@iaa.es,
 - Manuel Parra-Royón - mparra@iaa.es,
 - JJ Merelo - jjmerelo@ugr.es
-- 
 
 ## Follow the event
 You can check the latest updates from the DataBeers Granada account:
