@@ -18,7 +18,7 @@ el Palacio de Congresos.
 ## Eventos destacados
 - 📆 Fecha: 20 y 21 de noviembre de 2024
 - 📫 Fecha límite de presentación de propuestas: 7 de noviembre
-- 🔆 Notificación de aceptación: 8 de noviembre
+- 🔆 Notificación de aceptación: 11 de noviembre
 - 📌 Lugar: Palacio de Congresos de Granada, Granada, Andalucía, España. Sala (TBC)
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
 - ⏳ Horario del evento: 18:00-20:00h del 20 y 21 de noviembre de 2024
@@ -84,7 +84,7 @@ Una vez aceptada la propuesta nos pondremos en contacto contigo para completar l
 ## Fechas importantes
 
 - Fecha límite de presentación de resúmenes: 7 de noviembre.
-- Notificación de aceptación: 8 de noviembre.
+- Notificación de aceptación: 11 de noviembre.
 
 ## ¡Te esperamos!
 
@@ -179,7 +179,7 @@ Once the proposal is accepted we will contact you to complete the necessary info
 ## Important Dates
 
 - Abstract Submission Deadline: November, 7th.
-- Notification of Acceptance: November, 8th.
+- Notification of Acceptance: November, 11th.
 
 ##  We look forward to seeing you!
 
