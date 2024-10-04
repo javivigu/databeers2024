@@ -50,7 +50,7 @@ charlas sean impactantes, vibrantes y sobre todo muy divertidas.
 
 ## Proceso de presentación y criterios de selección de las propuestas
 
-- Abre
+- Abra
   [https://github.com/espsrc/databeers2024](https://github.com/espsrc/databeers2024)
 - Cree un nuevo archivo dentro de la carpeta `talks` llamado `<su_nombre>.md` e
   incluya tu propuesta de presentación/charla siguiendo la plantilla
